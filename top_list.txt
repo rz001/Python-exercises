@@ -1,0 +1,94 @@
+1	
+Two Sum    		36.7%	Easy	
+7	
+Reverse Integer    		24.4%	Easy	
+13	
+Roman to Integer    		47.2%	Easy	
+14	
+Longest Common Prefix    		31.6%	Easy	
+20	
+Valid Parentheses    		33.8%	Easy	
+21	
+Merge Two Sorted Lists    		39.8%	Easy	
+26	
+Remove Duplicates from Sorted Array    		35.8%	Easy	
+28	
+Implement strStr()    		28.7%	Easy	
+38	
+Count and Say    		36.1%	Easy	
+53	
+Maximum Subarray    		40.1%	Easy	
+66	
+Plus One    		39.3%	Easy	
+69	
+Sqrt(x)    		28.5%	Easy	
+70	
+Climbing Stairs    		40.7%	Easy	
+88	
+Merge Sorted Array    		32.1%	Easy	
+101	
+Symmetric Tree    		39.8%	Easy	
+104	
+Maximum Depth of Binary Tree    		53.7%	Easy	
+108	
+Convert Sorted Array to Binary Search Tree    		43.3%	Easy	
+118	
+Pascal's Triangle    		39.5%	Easy	
+121	
+Best Time to Buy and Sell Stock    		42.4%	Easy	
+122	
+Best Time to Buy and Sell Stock II    		47.8%	Easy	
+125	
+Valid Palindrome    		26.8%	Easy	
+136	
+Single Number    		55.1%	Easy	
+141	
+Linked List Cycle    		35.2%	Easy	
+155	
+Min Stack    		30.2%	Easy	
+160	
+Intersection of Two Linked Lists    		30.9%	Easy	
+169	
+Majority Element    		47.5%	Easy	
+171	
+Excel Sheet Column Number    		48.0%	Easy	
+172	
+Factorial Trailing Zeroes    		36.7%	Easy	
+189	
+Rotate Array    		25.1%	Easy	
+190	
+Reverse Bits    		29.5%	Easy	
+191	
+Number of 1 Bits    		40.1%	Easy	
+198	
+House Robber    		39.6%	Easy	
+202	
+Happy Number    		41.2%	Easy	
+204	
+Count Primes    		26.6%	Easy	
+206	
+Reverse Linked List    		46.4%	Easy	
+217	
+Contains Duplicate    		46.6%	Easy	
+234	
+Palindrome Linked List    		33.3%	Easy	
+237	
+Delete Node in a Linked List    		47.2%	Easy	
+242	
+Valid Anagram    		47.1%	Easy	
+268	
+Missing Number    		44.5%	Easy	
+283	
+Move Zeroes    		51.0%	Easy	
+326	
+Power of Three    		40.5%	Easy	
+344	
+Reverse String    		59.8%	Easy	
+350	
+Intersection of Two Arrays II    		44.9%	Easy	
+371	
+Sum of Two Integers    		51.1%	Easy	
+387	
+First Unique Character in a String    		47.2%	Easy	
+412	
+Fizz Buzz    		58.3%	Easy	
