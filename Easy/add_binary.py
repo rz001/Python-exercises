@@ -61,4 +61,4 @@ class Solution(object):
 s = Solution()
 sol = s.addBinary('1010','1011')
 if sol != None:
-    print ("Sum is {}".format(sol))
+    print("Sum is {}".format(sol))
